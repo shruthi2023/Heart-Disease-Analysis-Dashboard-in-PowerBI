@@ -1,2 +1,3 @@
 Heart Disease Analysis Dashboard in PowerBI
-<img width="612" alt="Screenshot 2025-03-19 155641" src="https://github.com/user-attachments/assets/b4bf4269-23e6-4a61-9279-c173074b0611" />
+
+![Tumbnali](https://github.com/user-attachments/assets/9ebd5db2-7ac5-4011-a3e3-e9e6e60f4927)
