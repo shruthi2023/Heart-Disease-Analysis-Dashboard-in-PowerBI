@@ -43,6 +43,13 @@ Citation:  Chicco, D., & Jurman, G. (2020). Machine learning can predict surviva
 🎨 Image Credit:
 Image by Freepik – https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm
 
+🎨 Icon Credit:
+Icon by Flaticon - 
+Author: Sudowoodo
+📌 https://www.flaticon.com/free-icon/person_13482183
+📌 https://www.flaticon.com/free-icon/avatar_13482193
+
+
 🎵 Music Credit:
 Background music: “Jamcito - Cumbia Deli” from YouTube Audio Library
 
